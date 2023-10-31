@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "BFZYMS7L7S.com.appteamcarolina.centible",
+                    "BFZYMS7L7S.com.appteamcarolina.centible.development",
+                    "BFZYMS7L7S.com.appteamcarolina.centible.sandbox"
+                ],
+                "components": [
+                    {
+                        "/": "/plaid",
+                        "comment": "Matches URL with path /plaid and opens in app"
+                    },
+                    {
+                        "/": "/plaid.html",
+                        "comment": "Matches URL with path /plaid and opens in app"
+                    }
+                ]
+            }
+        ]
+    }
+}
